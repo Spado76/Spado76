@@ -22,3 +22,6 @@
 <p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Spado76&theme=tokyonight&hide_border=false" alt="Spado76" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spado76&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Spado76" /></p>
+
+> [!TIP]
+> If you dont understand, dont mind to ask.
