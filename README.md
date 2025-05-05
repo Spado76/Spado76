@@ -36,7 +36,7 @@
 
 - 🤝 Open to collaboration: Let’s build something awesome
 
-##
+#
 
 <h3 align="left">Languages and Tools:</h3>
 
