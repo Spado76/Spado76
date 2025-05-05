@@ -17,15 +17,26 @@
   </a>
 </div>
 
+###
+
 <img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/ushio-noa-noa-blue-archive-noa-blue-archive-reia-gif-12169487406039952697.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Spado76&label=Profile%20views&color=0e75b6&style=flat" alt="Spado" /> </p>
 
+###
+
 - 🔭 I’m currently working on **Android App**
+
 - 🌱 I’m currently learning **Artifical Intelligence, Android Development**
+
 - 💻 Mostly code in: **Python**, but I explore other tools too
+
 - 📫 How to reach me: **[Discord](https://discord.gg/T3cB5XC)**
+
 - 🎮 Games I like: Minecraft and Blue Archive
+
 - 🤝 Open to collaboration: Let’s build something awesome
+
+##
 
 <h3 align="left">Languages and Tools:</h3>
 
