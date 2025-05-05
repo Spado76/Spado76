@@ -36,6 +36,9 @@
 
 - 🤝 Open to collaboration: Let’s build something awesome
 
+> [!TIP]
+> If you dont understand, dont mind to ask.
+
 #
 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,5 +49,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spado76&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Spado76" /></p>
 
-> [!TIP]
-> If you dont understand, dont mind to ask.
