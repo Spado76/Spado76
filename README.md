@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Artifical Intelligence, Android Development**
 - 📫 How to reach me: **[Discord](https://discord.gg/T3cB5XC)**
 - 🎮 Games I likes: Minecraft and Blue Archive
-<img align="left" alt="Coding" width="50" src="https://tenor.com/en-GB/view/momoidance-saibamomoi-momoiomg-bluearchive-gif-3185986945641151830.gif"></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
