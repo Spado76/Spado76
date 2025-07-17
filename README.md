@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/ushio-noa-noa-blue-archive-noa-blue-archive-reia-gif-12169487406039952697.gif">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/tefC8cUtE76.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Spado76&label=Profile%20views&color=0e75b6&style=flat" alt="Spado" /> </p>
 
 ###
