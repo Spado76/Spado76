@@ -16,7 +16,7 @@
 
 ###
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/yuuka-yuuka-blue-archive-reia-dance-blue-archive-gif-16002030013951176196">
+<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/yuuka-yuuka-blue-archive-reia-dance-blue-archive-gif-16002030013951176196.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Spado76&label=Profile%20views&color=0e75b6&style=flat" alt="Spado" /> </p>
 
 ###
