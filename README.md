@@ -3,14 +3,8 @@
 <h3 align="center">University Student from Indonesia</h3>
 
 <div align="center">
-  <a href="https://www.youtube.com/@Firmancraft37" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/ishfaq_craft/" target="_blank">
+  <a href="https://www.instagram.com/flipefore/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/T3cB5XC" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
 </div>
 
@@ -27,7 +21,7 @@
 
 - 💻 Mostly code in: **Python**, but I explore other tools too
 
-- 📫 How to reach me: **[Discord](https://discord.gg/T3cB5XC)**
+- 📫 How to reach me: **[Instagram]([https://discord.gg/T3cB5XC](https://www.instagram.com/flipefore))**
 
 - 🎮 Games I like: Minecraft and Blue Archive
 
