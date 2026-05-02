@@ -1,5 +1,5 @@
 [![MasterHead](img/banner.png)](https://github.com/Spado76/Web-Portfolio-Tailwind)
-<h1 align="center">Hi 👋, Spado Here</h1>
+<h1 align="center">Hi 👋, FlipeFore Here</h1>
 <h3 align="center">University Student from Indonesia</h3>
 
 <div align="center">
@@ -15,9 +15,9 @@
 
 ###
 
-- 🔭 I’m currently working on **Android App**
+- 🔭 I’m currently working on **Game Dev**
 
-- 🌱 I’m currently learning **Artifical Intelligence, Android Development**
+- 🌱 I’m currently learning **Artifical Intelligence, Android Development, Game Dev**
 
 - 💻 Mostly code in: **Python**, but I explore other tools too
 
