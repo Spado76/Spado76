@@ -36,7 +36,3 @@
 
 [![Languages and Tools](https://skillicons.dev/icons?i=js,html,css,tailwind,python,kotlin,maven,androidstudio,vscode,php,laravel,mysql,pr,ps)](https://skillicons.dev)
 
-<p><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=Spado76&theme=tokyonight&hide_border=false" alt="Spado76" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spado76&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Spado76" /></p>
-
